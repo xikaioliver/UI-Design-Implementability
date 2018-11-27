@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[4]:
-
-
 import argparse
 import codecs
 import logging
